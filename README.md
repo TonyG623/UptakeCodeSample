@@ -1,3 +1,4 @@
+x
 * Install Ruby from: * http://rubyinstaller.org/downloads/
 * Verify its installed by running 'ruby --version' , You may need to add ruby to your path
 * Bundler must be installed 'gem install bundler'
